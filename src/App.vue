@@ -4,7 +4,7 @@
     <input v-model="title">
     <img alt="Vue logo" src="./assets/logo.png">
     <h2>HELLOWORLD:</h2>
-    <HelloWorld msg="EVERETT CUMS etk"/>
+    <HelloWorld msg="EVERETT CUMS AGIAN tk"/>
   </div>
 </template>
 
