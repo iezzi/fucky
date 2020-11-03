@@ -1,3 +1,15 @@
+JAM stack
+Javascript API Markup based sites
+
+Vue is a js framework for building webapps
+component based 
+and reactive
+
+Webapps are coded and commited to Github
+Github pushes updates to Netlify
+
+Netlify deploys websits
+
 # iezzi-app
 
 ## Project setup

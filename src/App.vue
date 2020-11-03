@@ -1,7 +1,10 @@
 <template>
   <div id="app">
+    <h1>{{ title }}</h1>
+    <input v-model="title">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h2>HELLOWORLD:</h2>
+    <HelloWorld msg="JImmy Buffetk"/>
   </div>
 </template>
 
@@ -10,11 +13,16 @@ import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
+  data () {
+    return {
+      title: 'yooo'
+    }
+  },
   components: {
     HelloWorld
   }
 }
-</script>
+</script> 
 
 <style>
 #app {
